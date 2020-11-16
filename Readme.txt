@@ -1,6 +1,2 @@
-Thanks for downloading this template!
-
-Template Name: NewBiz
-Template URL: https://bootstrapmade.com/newbiz-bootstrap-business-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+I stumbled upon this template on bootstrapmade.
+This website can be modified into a corporate website, tech firm or even a startup.
